@@ -1,12 +1,11 @@
 {
-  "version": "2.3.8",
-  "build": 6,
+  "version": "2.3.9",
+  "build": 7,
   "notes": [
-    "Màn hình chờ duyệt gọn hơn",
-    "Bị thu hồi / chuyển về chờ duyệt thì về màn hình chờ ngay"
+    "Biểu đồ và xếp hạng từ khoá khớp với máy tính"
   ],
-  "size": 1434293,
-  "sha256": "594482f4184bfd4a56e3ab325dcacf5883971e476822ae9edff7a50570423ba7",
-  "date": "2026-11-06",
-  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.8/EbsMediaScan.ipa"
+  "size": 1435104,
+  "sha256": "034bed6bcd63599f4ff078efdb1857056381f8508b6b60f41854f1abefbf4808",
+  "date": "2026-11-07",
+  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.9/EbsMediaScan.ipa"
 }
