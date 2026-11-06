@@ -1,11 +1,12 @@
 {
-  "version": "2.3.7",
-  "build": 6,
+  "version": "2.3.8",
+  "build": 7,
   "notes": [
-    "Quản trị trên điện thoại: máy được cấp quyền mở được Cài đặt › Quản trị (duyệt máy, nguồn cập nhật, đổi PIN)"
+    "Màn hình chờ duyệt: chữ hướng dẫn gọn hơn",
+    "Quản trị viên thu hồi / chuyển về chờ duyệt / xoá máy: app về màn hình chờ duyệt ngay"
   ],
-  "size": 2120763,
-  "sha256": "067f872d14d6221dafe98067960da090e73fa2f62315e08b275b9aff5b2ba73e",
+  "size": 2121251,
+  "sha256": "c5ed241ac7b6ac8a36d84a4b3b3b371067d418688c5a03c6c6ce2f0a72c6c66d",
   "date": "2026-11-06",
-  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.7/EbsMediaScan.apk"
+  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.8/EbsMediaScan.apk"
 }
