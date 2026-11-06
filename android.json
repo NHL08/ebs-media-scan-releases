@@ -1,12 +1,12 @@
 {
-  "version": "2.3.8",
-  "build": 7,
+  "version": "2.3.9",
+  "build": 8,
   "notes": [
-    "Màn hình chờ duyệt: chữ hướng dẫn gọn hơn",
-    "Quản trị viên thu hồi / chuyển về chờ duyệt / xoá máy: app về màn hình chờ duyệt ngay"
+    "Biểu đồ xu hướng chia tuần giống máy tính, luôn hiện tuần hiện tại",
+    "Xếp hạng từ khoá theo đúng số tuần đang chọn — khớp số liệu với máy tính"
   ],
-  "size": 2121251,
-  "sha256": "c5ed241ac7b6ac8a36d84a4b3b3b371067d418688c5a03c6c6ce2f0a72c6c66d",
-  "date": "2026-11-06",
-  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.8/EbsMediaScan.apk"
+  "size": 2121595,
+  "sha256": "9d76ac2e6b21c920d63351f6c03b1f425271ed46e9c4a98216df002592288b06",
+  "date": "2026-11-07",
+  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.9/EbsMediaScan.apk"
 }
