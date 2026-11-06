@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "build": 2,
+  "version": "2.3.5",
+  "build": 3,
   "notes": [
-    "Bản đầu tiên"
+    "Gộp chung bản phát hành với máy tính và Android"
   ],
-  "size": 1403567,
-  "sha256": "50a3d35862a9d67b1d649b7b2a09fa0dfe38be78f24a539dae5c8b50b6ebd58d",
+  "size": 1403885,
+  "sha256": "5d6f79425e66036c60c886492d371a483e13f672fdd77c4b79544b3b97cabfa6",
   "date": "2026-11-06",
-  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/ios-v1.0.0/EbsMediaScan.ipa"
+  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.5/EbsMediaScan.ipa"
 }
