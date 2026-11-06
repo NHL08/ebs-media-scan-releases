@@ -1,12 +1,12 @@
 {
-  "version": "2.3.5",
-  "build": 3,
+  "version": "2.3.6",
+  "build": 5,
   "notes": [
-    "Gộp chung bản phát hành với máy tính và iPhone (cùng số phiên bản)",
-    "Link nguồn SideStore mới: releases/latest/download/sidestore.json"
+    "Hiện đủ tất cả tin như trên máy tính (trước chỉ 12 tháng gần nhất)",
+    "Cài đặt › Cập nhật gọn hơn: chỉ còn dòng Bản mới nhất"
   ],
-  "size": 2111762,
-  "sha256": "1bd919343b2343c32351be3a2188d30c9ee755b24146ae1253d1f89ae420f098",
+  "size": 2111694,
+  "sha256": "651807d820facd7817310841d870fff8c867a7aef092cd76edbd8a2a7d73e6e8",
   "date": "2026-11-06",
-  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.5/EbsMediaScan.apk"
+  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.6/EbsMediaScan.apk"
 }
