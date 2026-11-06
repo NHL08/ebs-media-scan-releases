@@ -1,0 +1,46 @@
+{
+  "name": "Ebs Media Scan",
+  "identifier": "vn.eockvmb.ebsmediascan.source",
+  "subtitle": "Bản iPhone của Ebs Media Scan",
+  "description": "Nguồn SideStore để cài và cập nhật Ebs Media Scan trên iPhone.",
+  "iconURL": "https://raw.githubusercontent.com/NHL08/ebs-media-scan-releases/main/AppIcon.png",
+  "website": "https://github.com/NHL08/ebs-media-scan-releases",
+  "tintColor": "#487FFF",
+  "featuredApps": [
+    "vn.eockvmb.ebsmediascan"
+  ],
+  "apps": [
+    {
+      "name": "Ebs Media Scan",
+      "bundleIdentifier": "vn.eockvmb.ebsmediascan",
+      "developerName": "EOC KVMB",
+      "subtitle": "Theo dõi tin tức y tế – sự kiện (EBS).",
+      "localizedDescription": "Xem tin tức y tế – sự kiện đã được các máy tính Ebs Media Scan thu thập và đồng bộ: tin mới, tìm kiếm theo từ khoá, bộ lọc từ khoá nóng, xu hướng từ khoá theo tuần và báo cáo ngắn. Mỗi máy cần được quản trị viên duyệt.",
+      "iconURL": "https://raw.githubusercontent.com/NHL08/ebs-media-scan-releases/main/AppIcon.png",
+      "tintColor": "#487FFF",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "2",
+          "date": "2026-11-06",
+          "localizedDescription": "• Bản đầu tiên",
+          "downloadURL": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/ios-v1.0.0/EbsMediaScan.ipa",
+          "size": 1403567,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "version": "1.0.0",
+      "versionDate": "2026-11-06",
+      "versionDescription": "• Bản đầu tiên",
+      "downloadURL": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/ios-v1.0.0/EbsMediaScan.ipa",
+      "size": 1403567
+    }
+  ],
+  "news": []
+}
