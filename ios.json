@@ -1,11 +1,12 @@
 {
-  "version": "2.3.5",
-  "build": 3,
+  "version": "2.3.6",
+  "build": 4,
   "notes": [
-    "Gộp chung bản phát hành với máy tính và Android"
+    "Hiện đủ tất cả tin như trên máy tính",
+    "Cài đặt › Cập nhật gọn hơn"
   ],
-  "size": 1403885,
-  "sha256": "5d6f79425e66036c60c886492d371a483e13f672fdd77c4b79544b3b97cabfa6",
+  "size": 1403383,
+  "sha256": "65e86ff6fbce2089b7803eb48b2b2d373209dc7da5f572846a59c3ef66e11511",
   "date": "2026-11-06",
-  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.5/EbsMediaScan.ipa"
+  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.6/EbsMediaScan.ipa"
 }
