@@ -1,12 +1,11 @@
 {
-  "version": "2.3.6",
-  "build": 5,
+  "version": "2.3.7",
+  "build": 6,
   "notes": [
-    "Hiện đủ tất cả tin như trên máy tính (trước chỉ 12 tháng gần nhất)",
-    "Cài đặt › Cập nhật gọn hơn: chỉ còn dòng Bản mới nhất"
+    "Quản trị trên điện thoại: máy được cấp quyền mở được Cài đặt › Quản trị (duyệt máy, nguồn cập nhật, đổi PIN)"
   ],
-  "size": 2111694,
-  "sha256": "651807d820facd7817310841d870fff8c867a7aef092cd76edbd8a2a7d73e6e8",
+  "size": 2120763,
+  "sha256": "067f872d14d6221dafe98067960da090e73fa2f62315e08b275b9aff5b2ba73e",
   "date": "2026-11-06",
-  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.6/EbsMediaScan.apk"
+  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.7/EbsMediaScan.apk"
 }
