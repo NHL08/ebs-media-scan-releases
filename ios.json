@@ -1,11 +1,12 @@
 {
-  "version": "2.3.7",
-  "build": 5,
+  "version": "2.3.8",
+  "build": 6,
   "notes": [
-    "Quản trị trên điện thoại cho máy được cấp quyền"
+    "Màn hình chờ duyệt gọn hơn",
+    "Bị thu hồi / chuyển về chờ duyệt thì về màn hình chờ ngay"
   ],
-  "size": 1432227,
-  "sha256": "8ae2d3d0b13505f027d8bc0a33eba96ffbc995b438a8537c30e229b4a4fe5a22",
+  "size": 1434293,
+  "sha256": "594482f4184bfd4a56e3ab325dcacf5883971e476822ae9edff7a50570423ba7",
   "date": "2026-11-06",
-  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.7/EbsMediaScan.ipa"
+  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.8/EbsMediaScan.ipa"
 }
