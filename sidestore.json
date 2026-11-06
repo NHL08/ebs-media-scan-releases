@@ -22,6 +22,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.3.5",
+          "buildVersion": "3",
+          "date": "2026-11-06",
+          "localizedDescription": "• Gộp chung bản phát hành với máy tính và Android",
+          "downloadURL": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.5/EbsMediaScan.ipa",
+          "size": 1403885,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.0",
           "buildVersion": "2",
           "date": "2026-11-06",
@@ -35,11 +44,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.0",
+      "version": "2.3.5",
       "versionDate": "2026-11-06",
-      "versionDescription": "• Bản đầu tiên",
-      "downloadURL": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/ios-v1.0.0/EbsMediaScan.ipa",
-      "size": 1403567
+      "versionDescription": "• Gộp chung bản phát hành với máy tính và Android",
+      "downloadURL": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.5/EbsMediaScan.ipa",
+      "size": 1403885
     }
   ],
   "news": []
