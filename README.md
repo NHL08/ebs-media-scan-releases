@@ -7,10 +7,13 @@ khoá, lọc tin nóng, biểu đồ xu hướng, đám mây từ khoá, báo c�
 
 Phát triển: **EOC KVMB**
 
+Mỗi phiên bản là **một** bản phát hành chung cho máy tính, Android và iPhone (cùng số phiên bản).
+Bản mới nhất luôn ở [Releases › Latest](https://github.com/NHL08/ebs-media-scan-releases/releases/latest).
+
 ## Máy tính (Windows)
 
-Tải bộ cài mới nhất ở trang [Releases](https://github.com/NHL08/ebs-media-scan-releases/releases/latest):
-**`CaiDat_EbsMediaScan_<phiên bản>.exe`** — chạy, bấm Tiếp → Cài đặt. Không cần quyền quản trị.
+Tải **`CaiDat_EbsMediaScan_<phiên bản>.exe`** ở bản phát hành mới nhất — chạy, bấm Tiếp → Cài đặt.
+Không cần quyền quản trị.
 
 Lần đầu chạy, Windows có thể báo "Windows protected your PC" (bộ cài chưa ký số) → **More info → Run anyway**.
 Mỗi máy phải được quản trị viên duyệt và nhập khoá OpenAI riêng trước khi dùng.
@@ -26,8 +29,13 @@ ngắn. Lần đầu mở, app hiện **mã máy** — gửi mã này cho quản
 
 ### Android
 
-Tải **`EbsMediaScan-<phiên bản>.apk`** ở bản phát hành `android-v…` mới nhất trong
-[Releases](https://github.com/NHL08/ebs-media-scan-releases/releases), mở tệp để cài (cho phép "cài ứng dụng không rõ nguồn" nếu được hỏi).
+Tải APK mới nhất:
+
+```
+https://github.com/NHL08/ebs-media-scan-releases/releases/latest/download/EbsMediaScan.apk
+```
+
+Mở tệp để cài (cho phép "cài ứng dụng không rõ nguồn" nếu được hỏi).
 App tự báo khi có bản mới: **Cài đặt › Cập nhật** tự tải APK, kiểm tra SHA-256 rồi mở trình cài đặt.
 
 ### iPhone (SideStore)
@@ -35,10 +43,11 @@ App tự báo khi có bản mới: **Cài đặt › Cập nhật** tự tải A
 Thêm nguồn vào **SideStore › Sources › +**:
 
 ```
-https://raw.githubusercontent.com/NHL08/ebs-media-scan-releases/main/sidestore.json
+https://github.com/NHL08/ebs-media-scan-releases/releases/latest/download/sidestore.json
 ```
 
 rồi cài **Ebs Media Scan** từ nguồn đó. Cập nhật: **SideStore › My Apps › Update**.
+(Link nguồn cũ `raw.githubusercontent.com/.../main/sidestore.json` vẫn dùng được.)
 
 ---
 Kho này chỉ chứa bộ cài phát hành; mã nguồn được lưu riêng.
