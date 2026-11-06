@@ -22,6 +22,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.3.8",
+          "buildVersion": "6",
+          "date": "2026-11-06",
+          "localizedDescription": "• Màn hình chờ duyệt gọn hơn\n• Bị thu hồi / chuyển về chờ duyệt thì về màn hình chờ ngay",
+          "downloadURL": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.8/EbsMediaScan.ipa",
+          "size": 1434293,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "2.3.7",
           "buildVersion": "5",
           "date": "2026-11-06",
@@ -62,11 +71,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "2.3.7",
+      "version": "2.3.8",
       "versionDate": "2026-11-06",
-      "versionDescription": "• Quản trị trên điện thoại cho máy được cấp quyền",
-      "downloadURL": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.7/EbsMediaScan.ipa",
-      "size": 1432227
+      "versionDescription": "• Màn hình chờ duyệt gọn hơn\n• Bị thu hồi / chuyển về chờ duyệt thì về màn hình chờ ngay",
+      "downloadURL": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.8/EbsMediaScan.ipa",
+      "size": 1434293
     }
   ],
   "news": []
