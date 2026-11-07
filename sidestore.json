@@ -22,6 +22,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.4.0",
+          "buildVersion": "8",
+          "date": "2026-11-07",
+          "localizedDescription": "• Widget màn hình chính và màn hình khoá",
+          "downloadURL": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.4.0/EbsMediaScan.ipa",
+          "size": 2254502,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "2.3.9",
           "buildVersion": "7",
           "date": "2026-11-07",
@@ -77,14 +86,16 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
         "privacy": {}
       },
-      "version": "2.3.9",
+      "version": "2.4.0",
       "versionDate": "2026-11-07",
-      "versionDescription": "• Biểu đồ và xếp hạng từ khoá khớp với máy tính",
-      "downloadURL": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.9/EbsMediaScan.ipa",
-      "size": 1435104
+      "versionDescription": "• Widget màn hình chính và màn hình khoá",
+      "downloadURL": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.4.0/EbsMediaScan.ipa",
+      "size": 2254502
     }
   ],
   "news": []
