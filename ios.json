@@ -1,11 +1,11 @@
 {
-  "version": "2.3.9",
-  "build": 7,
+  "version": "2.4.0",
+  "build": 8,
   "notes": [
-    "Biểu đồ và xếp hạng từ khoá khớp với máy tính"
+    "Widget màn hình chính và màn hình khoá"
   ],
-  "size": 1435104,
-  "sha256": "034bed6bcd63599f4ff078efdb1857056381f8508b6b60f41854f1abefbf4808",
+  "size": 2254502,
+  "sha256": "353bf71de6c632ad06b16b16ee1d02708b0d3f31a653dd8fc8522e6de8cbd3b2",
   "date": "2026-11-07",
-  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.9/EbsMediaScan.ipa"
+  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.4.0/EbsMediaScan.ipa"
 }
