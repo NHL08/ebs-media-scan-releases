@@ -1,11 +1,11 @@
 {
-  "version": "2.4.0",
-  "build": 8,
+  "version": "2.4.1",
+  "build": 9,
   "notes": [
-    "Widget màn hình chính và màn hình khoá"
+    "Dùng như app thật: không bôi đen chữ, không phóng to, không nảy trang"
   ],
-  "size": 2254502,
-  "sha256": "353bf71de6c632ad06b16b16ee1d02708b0d3f31a653dd8fc8522e6de8cbd3b2",
+  "size": 2255797,
+  "sha256": "4e745c644efcb235306852dea71d252f588426d1796ef0ab7bf22a790b5a11b7",
   "date": "2026-11-07",
-  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.4.0/EbsMediaScan.ipa"
+  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.4.1/EbsMediaScan.ipa"
 }
