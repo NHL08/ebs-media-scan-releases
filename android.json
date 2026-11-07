@@ -1,12 +1,13 @@
 {
-  "version": "2.3.9",
-  "build": 8,
+  "version": "2.4.0",
+  "build": 9,
   "notes": [
-    "Biểu đồ xu hướng chia tuần giống máy tính, luôn hiện tuần hiện tại",
-    "Xếp hạng từ khoá theo đúng số tuần đang chọn — khớp số liệu với máy tính"
+    "Widget màn hình chính: Tổng quan, Bộ lọc từ khoá nóng, Tin mới nhất, Xu hướng (biểu đồ), Báo cáo ngắn",
+    "Cài đặt › Widget màn hình chính: bấm Thêm để đặt widget ra màn hình",
+    "Widget tự cập nhật khoảng 30 phút một lần, kể cả khi không mở app"
   ],
-  "size": 2121595,
-  "sha256": "9d76ac2e6b21c920d63351f6c03b1f425271ed46e9c4a98216df002592288b06",
+  "size": 2207703,
+  "sha256": "b0a05b3d070472af0924c269d3f0093c8cbfe4c61033d6424c41f87825f5e226",
   "date": "2026-11-07",
-  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.3.9/EbsMediaScan.apk"
+  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.4.0/EbsMediaScan.apk"
 }
