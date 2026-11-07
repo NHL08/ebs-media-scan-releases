@@ -1,13 +1,12 @@
 {
-  "version": "2.4.0",
-  "build": 9,
+  "version": "2.4.1",
+  "build": 10,
   "notes": [
-    "Widget màn hình chính: Tổng quan, Bộ lọc từ khoá nóng, Tin mới nhất, Xu hướng (biểu đồ), Báo cáo ngắn",
-    "Cài đặt › Widget màn hình chính: bấm Thêm để đặt widget ra màn hình",
-    "Widget tự cập nhật khoảng 30 phút một lần, kể cả khi không mở app"
+    "Dùng như app thật: giữ tay không còn bôi đen chữ hay hiện menu Sao chép / Tra cứu, không phóng to, không nảy cả trang",
+    "Sửa link nguồn cập nhật bị tràn khung trong Quản trị"
   ],
-  "size": 2207703,
-  "sha256": "b0a05b3d070472af0924c269d3f0093c8cbfe4c61033d6424c41f87825f5e226",
+  "size": 2208563,
+  "sha256": "ef6d459e49af444e48f78fdc5231ed41648f501031c923caa5c99d952a302dc2",
   "date": "2026-11-07",
-  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.4.0/EbsMediaScan.apk"
+  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.4.1/EbsMediaScan.apk"
 }
