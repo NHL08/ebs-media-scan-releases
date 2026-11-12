@@ -1,12 +1,14 @@
 {
-  "version": "2.4.1",
-  "build": 10,
+  "version": "2.5.0",
+  "build": 11,
   "notes": [
-    "Dùng như app thật: giữ tay không còn bôi đen chữ hay hiện menu Sao chép / Tra cứu, không phóng to, không nảy cả trang",
-    "Sửa link nguồn cập nhật bị tràn khung trong Quản trị"
+    "Giao diện mới (thiết kế 09), mặc định sáng — giống bản máy tính",
+    "Tab Biểu đồ: Truyền thông, 60 ngày, Xu hướng, Đám mây từ khoá",
+    "Tin tức tìm không dấu, Báo cáo ngắn đầy đủ, Quản trị cho máy được cấp quyền",
+    "Mất mạng vẫn xem dữ liệu đã lưu"
   ],
-  "size": 2208563,
-  "sha256": "ef6d459e49af444e48f78fdc5231ed41648f501031c923caa5c99d952a302dc2",
-  "date": "2026-11-07",
-  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.4.1/EbsMediaScan.apk"
+  "size": 2296216,
+  "sha256": "b57124d7c59aea8bd6301b735a3cda92a5ace3609c7c6164ebdb778078ef42f8",
+  "date": "2026-11-12",
+  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.5.0/EbsMediaScan.apk"
 }
