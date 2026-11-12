@@ -1,12 +1,12 @@
 {
-  "version": "2.5.0",
-  "build": 10,
+  "version": "2.5.1",
+  "build": 11,
   "notes": [
-    "Giao diện mới (thiết kế 09), mặc định sáng",
-    "Tab Biểu đồ: Truyền thông, 60 ngày, Xu hướng, Đám mây từ khoá"
+    "Hướng dẫn sử dụng viết lại",
+    "Cài đặt hiện đúng thời điểm tải dữ liệu"
   ],
-  "size": 2574230,
-  "sha256": "1bd7bd98a0504e9b5d9da353c2e6ae550690ed1cc42b57827d49353dcc579709",
+  "size": 2576349,
+  "sha256": "d4e143027e311c8659e87c4c66adda7d1e8b8700944df00cbab9ac30ca4fbc84",
   "date": "2026-11-12",
-  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.5.0/EbsMediaScan.ipa"
+  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.5.1/EbsMediaScan.ipa"
 }
