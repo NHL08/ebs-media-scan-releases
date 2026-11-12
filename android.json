@@ -1,14 +1,12 @@
 {
-  "version": "2.5.0",
-  "build": 11,
+  "version": "2.5.1",
+  "build": 12,
   "notes": [
-    "Giao diện mới (thiết kế 09), mặc định sáng — giống bản máy tính",
-    "Tab Biểu đồ: Truyền thông, 60 ngày, Xu hướng, Đám mây từ khoá",
-    "Tin tức tìm không dấu, Báo cáo ngắn đầy đủ, Quản trị cho máy được cấp quyền",
-    "Mất mạng vẫn xem dữ liệu đã lưu"
+    "Hướng dẫn sử dụng viết lại cho điện thoại",
+    "Cài đặt hiện đúng thời điểm tải dữ liệu lần cuối"
   ],
-  "size": 2296216,
-  "sha256": "b57124d7c59aea8bd6301b735a3cda92a5ace3609c7c6164ebdb778078ef42f8",
+  "size": 2296928,
+  "sha256": "0dd648a93e6d5b16dc167c6204ae40d9e6e2f585c875c1e0b983aa63a19dd150",
   "date": "2026-11-12",
-  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.5.0/EbsMediaScan.apk"
+  "url": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.5.1/EbsMediaScan.apk"
 }
