@@ -22,6 +22,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "2.5.1",
+          "buildVersion": "11",
+          "date": "2026-11-12",
+          "localizedDescription": "• Hướng dẫn sử dụng viết lại\n• Cài đặt hiện đúng thời điểm tải dữ liệu",
+          "downloadURL": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.5.1/EbsMediaScan.ipa",
+          "size": 2576349,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "2.5.0",
           "buildVersion": "10",
           "date": "2026-11-12",
@@ -109,11 +118,11 @@
         ],
         "privacy": {}
       },
-      "version": "2.5.0",
+      "version": "2.5.1",
       "versionDate": "2026-11-12",
-      "versionDescription": "• Giao diện mới (thiết kế 09), mặc định sáng\n• Tab Biểu đồ: Truyền thông, 60 ngày, Xu hướng, Đám mây từ khoá",
-      "downloadURL": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.5.0/EbsMediaScan.ipa",
-      "size": 2574230
+      "versionDescription": "• Hướng dẫn sử dụng viết lại\n• Cài đặt hiện đúng thời điểm tải dữ liệu",
+      "downloadURL": "https://github.com/NHL08/ebs-media-scan-releases/releases/download/v2.5.1/EbsMediaScan.ipa",
+      "size": 2576349
     }
   ],
   "news": []
